@@ -1,5 +1,4 @@
 # DarkThem-in-React
-# demo
 
 ```sh
 npm install
